@@ -7,13 +7,13 @@
 
 
 
-* [Preface](#preface)
+* [语言](#preface)
   * [Swift](#swift)
-  * [For the Community](#for-the-community)
-  * [Authors](#authors)
-* [Conditionals](#conditionals)
-  * [Yoda conditions](#yoda-conditions)
-  * [nil and BOOL checks](#nil-and-bool-checks)
+  * [对于社区](#for-the-community)
+  * [作者](#authors)
+* [条件](#conditionals)
+  * [Yoda 条件](#yoda-conditions)
+  * [nil 和 BOOL 的检测](#nil-and-bool-checks)
   * [Golden Path](#golden-path)
   * [Complex Conditions](#complex-conditions)
   * [Ternary Operator](#ternary-operator)
@@ -79,7 +79,7 @@
 
 # Preface
 
-We started writing this book on November 2013. The initial goal was to provide guidelines to write the most clean Objective-C code possible: there are too many guidelines out there and all of them are debatable. We didn't aim introducing hard rules but, instead, a way for writing code to be more uniform as possible across different developers.
+我们于2013年11月开始写这本书. 最初的目的是为了写一个指导方针，引导大家写出尽可能整洁的Objective-C代码，但是这里的很多建议是有争议的. We didn't aim introducing hard rules but, instead, a way for writing code to be more uniform as possible across different developers.
 With time the scope moved to explain how to design and architecture good code.
 
 The idea underneath is that the code should not only compile, instead it should "validate". Good code has several characteristics: should be concise, self-explanatory, well organized, well documented, well named, well designed and stand the test of time.
