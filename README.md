@@ -7,7 +7,7 @@
 
 
 
-* [语言](#preface)
+* [序言](#preface)
   * [Swift](#swift)
   * [对于社区](#for-the-community)
   * [作者](#authors)
@@ -79,10 +79,10 @@
 
 # Preface
 
-我们于2013年11月开始写这本书. 最初的目的是为了写一个指导方针，引导大家写出尽可能整洁的Objective-C代码，但是这里的很多建议是有争议的. We didn't aim introducing hard rules but, instead, a way for writing code to be more uniform as possible across different developers.
-With time the scope moved to explain how to design and architecture good code.
+我们于2013年11月开始写这本书. 最初的目的是为了写一个指导方针，引导大家写出尽可能整洁的Objective-C代码，但是这里的很多建议是有争议的. 我们的目的不是为了给大家介绍复杂的规则, 而是为了让不同的开发者尽可能统一方式去写代码。
+接下来会用大量的篇幅来解释怎么去设计和架构好的代码。
 
-The idea underneath is that the code should not only compile, instead it should "validate". Good code has several characteristics: should be concise, self-explanatory, well organized, well documented, well named, well designed and stand the test of time.
+The idea underneath is that the code should not only compile, instead it should "validate". 好的代码有这几个特征: 非常简洁，自身具有解释性，良好的结构组织，良好的注释，好的命名，精心设计而且经得起时间的考验。
 The main goals behind the curtain are that clarity always wins over performance and a rationale for a choice should always be provided.
 Some topics discussed here are general and independent from the language even if everything is tied up to Objective-C.
 
