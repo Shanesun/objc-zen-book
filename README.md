@@ -88,8 +88,7 @@ Some topics discussed here are general and independent from the language even if
 
 ## Swift
 
-On June 6th, 2014 Apple announced the new programming language to be used for iOS and Mac development in future: Swift.
-This new language is a radical departure from Objective-C and, of course, has caused a change in our plan for writing this book. It boiled down to the decision of releasing the current status of this essay without continuing our journey in unfolding the topics we originally planned to include.
+2014年6月6号苹果发布了一种新的语言：Swift，在未来将用于iOS和Mac开发。This new language is a radical departure from Objective-C and, of course, has caused a change in our plan for writing this book. It boiled down to the decision of releasing the current status of this essay without continuing our journey in unfolding the topics we originally planned to include.
 Objective-C is not going anywhere but at the same time continuing to write a book on a language that will not receive the same attention as it used to, is not a wise move.
 
 ## For the Community
