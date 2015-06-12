@@ -88,14 +88,14 @@ Some topics discussed here are general and independent from the language even if
 
 ## Swift
 
-2014年6月6号苹果发布了一种新的语言：Swift，在未来将用于iOS和Mac开发。This new language is a radical departure from Objective-C and, of course, has caused a change in our plan for writing this book. It boiled down to the decision of releasing the current status of this essay without continuing our journey in unfolding the topics we originally planned to include.
+2014年6月6号苹果发布了一种新的语言：Swift，在未来将用于iOS和Mac开发。这种新的语言和Objective-c完全不一样，已经改变了我们写这本书的计划. It boiled down to the decision of releasing the current status of this essay without continuing our journey in unfolding the topics we originally planned to include.
 Objective-C is not going anywhere but at the same time continuing to write a book on a language that will not receive the same attention as it used to, is not a wise move.
 
 ## For the Community
 
-We have released this book for free and for the community because we hope to provide value to the reader, if each one of you can learn at least one best practice we have reached our goal.
+我们已经在社区中免费发布了这本书，因为我们希望能带给读者有价值的东西，如果每一个人都能在书中学到至少一点最好的编写方法，我们已经达到目的。
 
-We have done our best to polish this text and make it pleasant to the reader but we may have made typos, mistakes or left any part incomplete. We strongly encourage you to give us feedback and suggest improvements, so please get in touch with us if have any. We particularly appreciate pull requests.
+我们已经尽了最大努力去修改这本书并且使读者在阅读过程中更加舒适，but we may have made typos, mistakes or left any part incomplete. We strongly encourage you to give us feedback and suggest improvements, so please get in touch with us if have any. We particularly appreciate pull requests.
 
 ## Authors
 
