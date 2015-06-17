@@ -11,6 +11,10 @@
   * [Swift](#swift)
   * [对于社区](#for-the-community)
   * [作者](#authors)
+* [快捷键](#shortcuts)
+  * [Xcode 快捷键](#xcode-shortcuts)
+  * [模拟器 快捷键](#simulator-shortcuts
+)
 * [条件](#conditionals)
   * [Yoda 条件](#yoda-conditions)
   * [nil 和 BOOL 的检测](#nil-and-bool-checks)
@@ -110,6 +114,12 @@ Objective-C is not going anywhere but at the same time continuing to write a boo
 - http://albertodebortoli.com
 - @albertodebo
 - http://github.com/albertodebortoli
+
+# Shaorcuts
+
+## Xcode Shortcuts
+
+## Simulator shortcuts
 
 
 # Conditionals
